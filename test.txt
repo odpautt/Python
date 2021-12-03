@@ -1,0 +1,6 @@
+user;password;nombreconector;descripcionconector;reintentos;retrytime;timeout;protocolo;poolconexiones
+NAE47212;Desarrollo12;PythonTest_2;pruebas automatizadas;15;200;500;Rest;Pool-digiway-test;
+linea;2;def
+linea;3;ghi
+linea;4;jkl
+linea;5;mno
