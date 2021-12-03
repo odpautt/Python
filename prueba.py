@@ -1,3 +1,4 @@
+# optine el ancho y alto de la pantalla del PC
 import ctypes
 
 user32 = ctypes.windll.user32
