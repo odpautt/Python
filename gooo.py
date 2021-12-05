@@ -1,3 +1,4 @@
+# envia teclas
 import keyboard as kb
 from pynput import keyboard
 import time
